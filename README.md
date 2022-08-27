@@ -41,3 +41,11 @@
 ### Na Aula 9
 
 - Expansão de Propriedades
+
+### Aula 10
+
+- Operações matemáticas
+
+### Aula 11
+
+- Loop For e Condicionais If/Else
