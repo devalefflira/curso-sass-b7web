@@ -26,10 +26,14 @@
 
 - Variáveis
 
-### Na Aula 5
+### Na Aula 6
 
 - Grupos de Elementos
 
-### Na Aula 6
+### Na Aula 7
 
 - Importar outros arquivos
+
+### Na Aula 8
+
+- Mixin
