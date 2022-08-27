@@ -6,15 +6,18 @@ nav {
     margin: 0;
     padding: 0;
     list-style: none;
-  }
 
-  li {
-    display: inline-block;
-
-    a {
-      text-decoration: none;
-      color: #222222;
-      text-transform: uppercase;
+    li {
+      display: inline-block;
+  
+      a {
+        display: block;
+        background-color: #cccccc;
+        padding: 10px;
+        text-decoration: none;
+        color: #222222;
+        text-transform: uppercase;
+      }
     }
-  }
+  }  
 }
