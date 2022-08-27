@@ -1,0 +1,30 @@
+// Group Extensions
+
+%default-item {
+  font-size: 14px;
+  border: 1px solid #999999;
+  padding: 5px;
+}
+
+%bold-item {
+  font-weight: bold;
+}
+
+%lighter-italic-item {
+  font-weight: lighter;
+  font-style: italic;
+}
+
+// For Loop and If/Else Conditionals
+@for $i from 1 through 5 {
+  .item-#{$i} {
+    @extend %default-item;
+
+    @if $i <= 3 {
+      @extend %bold-item;
+    }
+    @else {
+      @extend %lighter-italic-item;
+    }
+  }
+}
