@@ -1,0 +1,14 @@
+$background-color: #222222;
+$default-font-color: #f5f5f5;
+$uppercase-font: uppercase;
+$large-font-pattern: 100px;
+
+body {
+  background-color: $background-color;
+  color: $default-font-color;
+}
+
+h1 {
+  text-transform: $uppercase-font;
+  font-size: $large-font-pattern;
+}
