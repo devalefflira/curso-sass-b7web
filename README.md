@@ -37,3 +37,7 @@
 ### Na Aula 8
 
 - Mixin
+
+### Na Aula 9
+
+- Expansão de Propriedades
